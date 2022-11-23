@@ -8,7 +8,8 @@ The purpose of the prototype is to solidify the foundation of the wireflow and h
 ## Tasks
 ### Feature 1: Maps/Personal Stories/Adding to Calendar
 This was derived from the first persona: Elaina Pascuela after an insightful contextual inquiry. 
-* Main purpose: to find nearby food pantries with contact information and easily add it to the calendar with personal stories to show shy users how much this free resource has made an impact on their life.
+
+> Main purpose: to find nearby food pantries with contact information and easily add it to the calendar with personal stories to show shy users how much this free resource has made an impact on their life.
 
 - Map Navigation (with search bar by location) (Work in Progress to add the time filter function)
 - Call Now
@@ -17,7 +18,7 @@ This was derived from the first persona: Elaina Pascuela after an insightful con
 
 ### Feature 2: Reservation system
 This was derived from the second persona: Jacob Mendoza after an insightful contextual inquiry. 
-* Main purpose: to make the visit to the food pantry quickly and swiftly
+> Main purpose: to make the visit to the food pantry quickly and swiftly
 - Reserving food items up to a certain amount
 - Tags (Work in Progress - does not actually filter food items just yet.) 
 - Selecting a pick up time with two methods: using the student ID or anonymous
