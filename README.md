@@ -27,6 +27,9 @@ This was derived from the second persona: Jacob Mendoza after an insightful cont
 The complete wireflow can be found below. 
 Here is the [link to the figma prototype.](https://www.figma.com/proto/UiufVd4yISDvhUME801EHM/Assignment-7?node-id=1%3A2308&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2308)
 
+![screen capture of simplified wireflow](https://github.com/sdelaserna/DH-Assignment-07-High-Fidelity-Prototype/blob/main/simplified%20wireflow%20of%20COD%20prototype.png)
+
+Wireflow before Autoflow plug in was used. 
 ![screen capture of wireflow](https://github.com/sdelaserna/DH-Assignment-07-High-Fidelity-Prototype/blob/main/wireflow%20of%20COD%20prototype.png) 
 
 ## Evidence of Cognitive Walkthrough
