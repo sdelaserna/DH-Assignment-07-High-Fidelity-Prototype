@@ -33,5 +33,10 @@ Wireflow before Autoflow plug in was used.
 ![screen capture of wireflow](https://github.com/sdelaserna/DH-Assignment-07-High-Fidelity-Prototype/blob/main/wireflow%20of%20COD%20prototype.png) 
 
 ## Evidence of Cognitive Walkthrough
-###
+### Findings
+
+### Process
+
+### Reflection
+#### What I would change/design differently
 
