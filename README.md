@@ -25,5 +25,7 @@ This was derived from the second persona: Jacob Mendoza after an insightful cont
 
 ## Wireflow 
 The complete wireflow can be found below. 
+![screen capture of wireflow](https://github.com/sdelaserna/DH-Assignment-07-High-Fidelity-Prototype/blob/main/wireflow%20of%20COD%20prototype.png) 
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUiufVd4yISDvhUME801EHM%2FAssignment-7%3Fnode-id%3D0%253A1%26t%3Dpk8jJit9D1Y5JYYK-1" allowfullscreen></iframe>
 
