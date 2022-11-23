@@ -35,6 +35,8 @@ Wireflow before Autoflow plug in was used.
 
 ## Cognitive Walkthrough (1)
 This cognitive walkthrough was done during class time on November 16, 2022. However, this cognitive walkthrough only had 1 task that was very roughly finished. Another cognitive walkthrough was conducted down below. 
+This is the wireflow from the first time. 
+![first wireflow](https://github.com/sdelaserna/DH-Assignment-07-High-Fidelity-Prototype/blob/main/first%20iteration%20of%20the%20wireflow.PNG)
 ### Summary of Findings
 1. There was some struggle with the prototype because not all the icons and buttons had an interactivity yet. (Issues with back flow)
 2. Belle suggested to add a bookmark feature so students can easily find their favorite food pantry. 
@@ -45,6 +47,20 @@ This cognitive walkthrough was done during class time on November 16, 2022. Howe
 ### Process
 I followed the Cognitive Walkthrough guidline that was on the Google form from class. We did a quick impression test in the beginning. Both Maham and Belle were able to understand that the web/app was for food resources. They wish that there was a better measurement if progress is being made towards their goal. There was also an emphasis to make the buttons bigger so that people don't actually press on the wrong one and it would take them to wrong page. I made sure to ask follow up questions when all of these comments were said and made note of it for my next design iteration.
 
+## Cognitive Walkthrough (2)
+This cognitive walkthrough was conducted last night on November 22, 2022 with my roommate Janelle. This time with a more completed and robust version of the wireflow. After the first cognitive walkthrough I made more things clickable. I also added a dropdown menu that the Maham and Belle mentioned from the last time. 
+
+### Summary of Findings
+1. Janelle understood that this was a school website to learn more about resources and events that College of the Desert has to offer. 
+2. She liked that there was an option to navigate within the interface since many times you have to switch apps. 
+3. She agreed that there was a feeling of making progress towards the goals. 
+4. She wishes that everything was clickable, but other than that the flow is good!
+5. Janelle critiqued that the Home Menu does not feel like it's not in the right order and should be grouped based off of category rather than alphabetical order.
+6. She wishes that there was more aesthetically pleasing pictures!
+
+### Process
+It was the same process as last time using the Cognitive Walkthrough guideline that was on the Google form from class. The only thing that really changed was the location and time. She thought it was really cool that our class gets to make a project like this. 
+
 ### Reflection
 #### What I would change/design differently
-It was nice having an outside perspective run through the prototype because as the person who designed the system, I already have a predetermined way to interact with it because I know in the back of my head where it's supposed to go. With the cognitive walkthrough it was a fresh take and allowed me to check if the system matches and is consistent with their internal workign model. From this cognitive walkthrough, I polished the first feature and completed the second feature as well. I would still like to design the calendar differently, but due to time constraints, energy management, and personal matters, I was not able to have it cross platform with Apple Calendar or Google Calendar. I think I will go back to work on this project in a later date to learn more about it. 
+It was nice having an outside perspective run through the prototype because as the person who designed the system, I already have a predetermined way to interact with it because I know in the back of my head where it's supposed to go. With the cognitive walkthrough it was a fresh take and allowed me to check if the system matches and is consistent with their internal workign model. From this cognitive walkthrough, I polished the first feature and completed the second feature as well. I would still like to design the calendar differently, but due to time constraints, energy management, and personal matters, I was not able to have it cross platform with Apple Calendar or Google Calendar. I think I will go back to work on this project in a later date to update the prototype with the critiques and learn more about jumping to different apps. 
